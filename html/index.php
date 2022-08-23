@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-
+    <!-- header starts here -->
 		<meta charset="utf-8">
 		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
 		<meta name="description" content="Spruha -  Admin Panel HTML Dashboard Template">
